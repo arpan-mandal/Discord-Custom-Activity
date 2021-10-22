@@ -3,7 +3,7 @@ const express = require("express")
 const server = express()
 
 server.all("/", (req, res) => {
-  res.send('<meta http-equiv="refresh" content="0; URL=dsc.gg/blu-"/>')
+  res.send("Bot is running!")
 })
 
 function keepAlive() {
@@ -13,8 +13,3 @@ function keepAlive() {
 }
 
 module.exports = keepAlive
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-S
