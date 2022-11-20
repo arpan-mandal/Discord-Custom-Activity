@@ -13,4 +13,4 @@ Get the PLAYING/STREAMING/LISTENING/WATCHING status on Discord without doing any
 <br>After editing, click Run and wait for the program to start. After that copy the link given in the top right corner and paste it in [UptimeRobot](https://uptimerobot.com) to make it 24/7.<br>
 # Now just enjoy!
 
-> Make sure to star the respiratory if this helped you!:)
+> Make sure to star the repository if this helped you!:)
